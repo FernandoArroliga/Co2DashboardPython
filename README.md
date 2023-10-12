@@ -54,7 +54,6 @@ For more information on CO2 emissions, you can visit reputable sources such as t
 - ...
 
 ## Installation
-## Installation
 
 To get started with the CO2 Emissions Dashboard, follow these steps:
 
@@ -65,7 +64,23 @@ To get started with the CO2 Emissions Dashboard, follow these steps:
    ```bash
    git clone https://github.com/yourusername/CO2-emissions-dashboard.git
 
-
+2. 
 ## Usage
 
-## License 
+
+## License
+
+This project is licensed under the **MIT License**. 
+
+The MIT License is a permissive open-source license that allows users to do almost anything they want with the project's code, provided they include the original copyright and license notice in any copy of the project. It's known for its simplicity and flexibility, making it a popular choice for many open-source projects.
+
+### MIT License Summary
+
+- **Permission**: Users can use, modify, copy, distribute, and sublicense the code with or without modifications.
+- **Liability**: The code is provided "as is," without any warranty or liability.
+- **Copyright Notice**: Users must include the original copyright and license notice in all copies or substantial portions of the project.
+
+For more details, you can refer to the [MIT License](LICENSE) file.
+
+Feel free to use and contribute to this project, following the terms of the MIT License.
+
