@@ -9,7 +9,6 @@ A Python dashboard built using `panel`, `hvplot`, `pandas`, `numpy`, and `jupyte
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Dataset](#dataset)
 - [License](#license)
 
 ## Introduction
@@ -89,7 +88,7 @@ To get started with the CO2 Emissions Dashboard, follow these steps:
 5. **Launch JupyterLab:**
    Start the JupyterLab environment to run the dashboard application:
    ```bash
-jupyter-lab
+   jupyter-lab
 
 6. **Open the Dashboard Notebook:**
    Within JupyterLab, navigate to the project directory and open the Jupyter notebook
