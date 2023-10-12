@@ -54,9 +54,18 @@ For more information on CO2 emissions, you can visit reputable sources such as t
 - ...
 
 ## Installation
+## Installation
 
-1. Clone the repository:
+To get started with the CO2 Emissions Dashboard, follow these steps:
+
+1. **Clone the Repository:**
+
+   First, clone this repository to your local machine using Git:
 
    ```bash
    git clone https://github.com/yourusername/CO2-emissions-dashboard.git
 
+
+## Usage
+
+## License 
