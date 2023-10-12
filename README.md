@@ -72,7 +72,7 @@ To get started with the CO2 Emissions Dashboard, follow these steps:
 
 3. **Activate the Virtual Environment:**
    Activate the virtual environment to isolate dependencies for this project:
-Windows:
+- Windows:
 
    ```bash
    .\env\Scripts\activate
