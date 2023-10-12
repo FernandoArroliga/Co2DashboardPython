@@ -60,7 +60,7 @@ To get started with the CO2 Emissions Dashboard, follow these steps:
    First, clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/CO2-emissions-dashboard.git
+   git clone https://github.com/FernandoArroliga/Co2DashboardPython.git
 
 2. **Create a Virtual Environment (Optional but Recommended):**
 
