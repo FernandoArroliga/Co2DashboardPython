@@ -5,6 +5,7 @@ A Python dashboard built using `panel`, `hvplot`, `pandas`, `numpy`, and `jupyte
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Dataset](#Dataset)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
