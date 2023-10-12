@@ -120,6 +120,11 @@ To use and run the CO2 Emissions Dashboard, follow these steps:
    ```bash
    python cleaning_the_dataset.py
 
+3. **Running the Dashboard:**
+   To run the dashboard using Python, execute the dashboard.py script from the command line:
+   ```bash
+      python dashboard.py
+
 
 ## License
 
