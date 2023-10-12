@@ -72,21 +72,37 @@ To get started with the CO2 Emissions Dashboard, follow these steps:
 
 3. **Activate the Virtual Environment:**
    Activate the virtual environment to isolate dependencies for this project:
+   
 - Windows:
-
    ```bash
    .\env\Scripts\activate
 
+- Linux/macOS:
+   ```bash
+   source env/bin/activate
 
-5. **:**
-6. **:**
-7. **:**
-8. **:**
+4. **Install Dependencies:**
+   Use pip to install the necessary Python packages from the provided requirements file:
+   ```bash
+   pip install -r requirements.txt
 
+5. **Launch JupyterLab:**
+   Start the JupyterLab environment to run the dashboard application:
+   ```bash
+jupyter-lab
 
+6. **Open the Dashboard Notebook:**
+   Within JupyterLab, navigate to the project directory and open the Jupyter notebook
+   file Co2DashboardPython.ipynb. Run the notebook to interact with the CO2 Emissions Dashboard.
 
+7. **Explore the Dashboard:**
+   Interact with the dashboard to explore the CO2 emissions data, visualizations, and gain insights
+   into the environmental impact across different countries and years.
+
+   Feel free to modify the environment setup based on your preference or the specific requirements of your system.
 
 ## Usage
+
 
 
 ## License
