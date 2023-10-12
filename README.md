@@ -70,6 +70,20 @@ To get started with the CO2 Emissions Dashboard, follow these steps:
    ```bash
    python -m venv env
 
+3. **Activate the Virtual Environment:**
+   Activate the virtual environment to isolate dependencies for this project:
+Windows:
+
+   ```bash
+   .\env\Scripts\activate
+
+
+5. **:**
+6. **:**
+7. **:**
+8. **:**
+
+
 
 
 ## Usage
