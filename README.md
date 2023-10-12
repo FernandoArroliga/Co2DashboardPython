@@ -10,7 +10,6 @@ A Python dashboard built using `panel`, `hvplot`, `pandas`, `numpy`, and `jupyte
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -64,7 +63,15 @@ To get started with the CO2 Emissions Dashboard, follow these steps:
    ```bash
    git clone https://github.com/yourusername/CO2-emissions-dashboard.git
 
-2. 
+2. **Create a Virtual Environment (Optional but Recommended):**
+
+   It's a good practice to create a virtual environment for this project to manage dependencies. Using virtualenv:
+
+   ```bash
+   python -m venv env
+
+
+
 ## Usage
 
 
