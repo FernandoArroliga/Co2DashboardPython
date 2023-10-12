@@ -102,6 +102,23 @@ To get started with the CO2 Emissions Dashboard, follow these steps:
 
 ## Usage
 
+To use and run the CO2 Emissions Dashboard, follow these steps:
+
+1. **Project Files Overview:**
+
+   In the repository, you will find the following files:
+   - `dashboard.py`: Contains the script to create and run the dashboard on the server.
+   - `Co2DashboardPython.ipynb`: Jupyter notebook containing the dashboard script.
+   - `cleaning_the_dataset.py`: Python script to clean the dataset.
+   - `owid-co2-data.csv`: CO2 emissions dataset (raw data).
+   - `cleaned_data.csv`: Cleaned dataset stored after running `cleaning_the_dataset.py`.
+
+2. **Cleaning the Dataset:**
+
+   Run the Python script `cleaning_the_dataset.py` to clean the raw dataset and generate the cleaned dataset file `cleaned_data.csv`:
+
+   ```bash
+   python cleaning_the_dataset.py
 
 
 ## License
