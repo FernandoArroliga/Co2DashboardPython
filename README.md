@@ -2,7 +2,7 @@
 
 A Python dashboard built using `panel`, `hvplot`, `pandas`, `numpy`, and `jupyter-lab`, displaying visualizations and insights from a CO2 emissions dataset.
 
-![PanelDashboard](panel_python_project.jpeg)
+![PanelDashboard](panel_python_project.jpg)
 
 ## Table of Contents
 
